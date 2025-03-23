@@ -15,7 +15,7 @@ fn main(){
     let secret = 27;
 
     //initial guess
-    let mut guess = 32;
+    let mut guess = 20;
 
     let mut num_attempts = 0;
 
@@ -38,7 +38,7 @@ fn main(){
         } else {
 
             println!("{} is too low please try again.", guess);
-            guess -= 1;
+            guess += 1;
 
         }
 
