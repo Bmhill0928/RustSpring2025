@@ -1313,8 +1313,6 @@ name = "website-status-checker-rust"
 version = "0.1.0"
 dependencies = [
  "reqwest",
- "serde",
- "serde_json",
 ]
 
 [[package]]
