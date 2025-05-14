@@ -1,3 +1,5 @@
 [
-{"url": "https://blayne.com", "action_status": "Failed to process https://blayne.com: Error: error sending request for url (https://blayne.com/)", "response_time": 1431, "timestamp": "SystemTime { tv_sec: 1746912451, tv_nsec: 385186616 }"}
+{"url": "https://google.com", "action_status": 200, "response_time": 122, "timestamp": "SystemTime { tv_sec: 1747228961, tv_nsec: 863298312 }"},
+{"url": "https://rust-lang.org", "action_status": 200, "response_time": 417, "timestamp": "SystemTime { tv_sec: 1747228962, tv_nsec: 158468232 }"},
+{"url": "https://nonexistentwebsite.com", "action_status": "Failed to process https://nonexistentwebsite.com: Error: error sending request for url (https://nonexistentwebsite.com/)", "response_time": 2071, "timestamp": "SystemTime { tv_sec: 1747228963, tv_nsec: 808267041 }"}
 ]

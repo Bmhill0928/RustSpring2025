@@ -1,2 +1,3 @@
-https://example.com
+https://google.com
 https://rust-lang.org
+https://nonexistentwebsite.com
